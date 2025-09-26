@@ -1,4 +1,4 @@
-# Dvorak Lessons (Clone)
+# Dvorak Lessons
 
 A lightweight React + TypeScript app for practicing the Dvorak keyboard layout through lesson-based typing drills. Built with Vite for fast local development.
 
